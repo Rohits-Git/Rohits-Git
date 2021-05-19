@@ -2,7 +2,7 @@
 नमस्ते (Namaste)🙏🏻, I'm Rohit Gupta !
 
 
-I am a 3rd year Information Technology student, fascinated towards Learning, hope to have a good time :')
+I am a 3rd year Information Technology student, fascinated towards Learning, hope to have a good time 😊
 
 - 👋 Hi, I’m Rohit Gupta
 - 🌱 I’m currently learning Python
