@@ -3,10 +3,10 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width:100%;"></a></p>
 
 
-<h3>I am a 3rd year Information Technology student, fascinated towards Learning, hope to have a good time 😊</h3>
+<h3>I am a 3Last year Information Technology student, fascinated towards Learning, hope to have a good time 😊</h3>
 
 - 👋 Hi, I’m Rohit Gupta
-- 🌱 I’m currently learning Python
+- 🌱 I’m MERN stack Developer
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python and MERN stack
 - 💞️ I’m looking to collaborate on Web Development
