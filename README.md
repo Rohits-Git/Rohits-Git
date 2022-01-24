@@ -8,8 +8,8 @@
 - 👋 Hi, I’m Rohit Gupta
 - 🌱 I’m MERN stack Developer
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python and MERN stack
-- 💞️ I’m looking to collaborate on Web Development
+- 🌱 I’m currently learning python and AI
+- 💞️ I’m looking to collaborate on Web App Development
 - 📫 How to reach me ✔️[linkdln](https://www.linkedin.com/in/rohit-gupta-77b729184/) <a href="mailto:rohit99841@gmail.com">✔️Mail</a>
 - 😄 Pronouns:He/His
 - ⚡ Fun fact:Right now You are looking at me, 'cause i'm not looking at you'.
